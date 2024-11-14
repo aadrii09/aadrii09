@@ -21,10 +21,9 @@ adriancastobeiro@gmail.com
 📚 I have a strong interest in Data Science, Artificial Intelligence
 🔭 Working on development
 🌱 Learning about Computer Vision, hardware and AI
-🌟 Main languages: Python, JavaScript, Go
+🌟 Main languages: Python, JavaScript, 
 🚩 Interested in Full Stack Application Development
 💖 In a complicated relationship with Neural Networks
-🎵 Love rock, lofi, jazz, jpop and kpop
 ```
 <hr>
 
