@@ -2,7 +2,7 @@
 Hewwo, i'm Adrián!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-  
+   <img src="https://komarev.com/ghpvc/?username=aadrii09&color=green" alt="Profile views" align='right'/> <a href="https://github.com/aadrii09/aadrii09/"> </a> 
 <br/>
 
 <p align="center">
