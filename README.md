@@ -95,7 +95,7 @@ adriancastobeiro@gmail.com
 
 </p>
 
-
+<p align="center">
 ## GitHub Stats
 
 
@@ -115,7 +115,7 @@ adriancastobeiro@gmail.com
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
-
+</p>
 ## Let's Work Together!
 
 If you have any questions about frontend or backend web development, feel free to <a href="adriancastrobeiro@gmail.com">contact me through email</a>.
