@@ -17,13 +17,13 @@ Hewwo, i'm Adrián!
 adriancastobeiro@gmail.com
 -------------------------
 💻 I am a self taught Full Stack Developer
-📝 I have certified experience with several national and multinational companies
+📝 I have certified studies and courses
 📚 I have a strong interest in Data Science, Artificial Intelligence
 🔭 Working on development
-🌱 Learning about Computer Vision, hardware and AI
-🌟 Main languages: Python, JavaScript, 
+🌱 Learning about Hardware and AI
+🌟 Main languages: Java, HTML, CSS and Java Script 
 🚩 Interested in Full Stack Application Development
-💖 In a complicated relationship with Neural Networks
+💖 Love to continue learning something new every day
 ```
 <hr>
 
