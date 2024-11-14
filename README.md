@@ -102,7 +102,7 @@ adriancastobeiro@gmail.com
 |                                                                     aadrii09's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:
 | ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=aadrii09&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadrii09&theme=algolia)                    | 
+|                    | 
     
   
 |                                                                                                      aadrii09's Stars                                                                                                       |                                                           Top Languages                                                           |      
