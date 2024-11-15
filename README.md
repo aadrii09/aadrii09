@@ -75,8 +75,8 @@ adriancastobeiro@gmail.com
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-</p>
-
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F05033.svg?logo=git&logoColor=white"></a>
+  
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
