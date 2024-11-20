@@ -75,7 +75,7 @@ adriancastobeiro@gmail.com
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%239B30FF.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Penpot" src="https://img.shields.io/badge/Penpot-%2300E676.svg?logo=penpot&logoColor=white"></a>
     <a href="#"><img alt="Office" src="https://img.shields.io/badge/Office-%23D83B01.svg?logo=office&logoColor=white"></a>
-    <a href="#"><img alt="Excell" src="https://img.shields.io/badge/Excell-%23217346.svg?logo=excell&logoColor=white"></a>
+    <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excell-%23217346.svg?logo=excell&logoColor=white"></a>
   
 ### 👨🏽‍💻 Workspace
 <p>
