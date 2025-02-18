@@ -134,7 +134,7 @@ adriancastobeiro@gmail.com
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadrii09&theme=blue_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadrii09&theme=blue_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadrii09&
-
+</p>
 
 
 
