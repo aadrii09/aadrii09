@@ -193,7 +193,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
 
 
 
-
+<hr>
 <h1><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><span style="font-size: 60px"> For More Information, Please Check Out or Connect Me Via</span></h1>
 <p align="center">
   <a href="https://github.com/aadrii09" target="_blank">
