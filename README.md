@@ -122,12 +122,17 @@ adriancastobeiro@gmail.com
 </a>
 </p>
 
-<table>
+
 ## Let's Work Together!
 
 If you have any questions about frontend or backend web development, feel free to <a href="mailto:adriancastrobeiro@gmail.com">contact me through email</a>.
 
 You can hire me as a freelancer to deploy your projects on web.
+
+## 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=aadrii09&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
   </td>
   <td width="50%" valign="top">
