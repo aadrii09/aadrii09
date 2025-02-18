@@ -65,9 +65,10 @@ adriancastobeiro@gmail.com
 
 <p>
    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-   <a href="#"><img alt="MySQL Pages" src="https://img.shields.io/badge/MySQL%20Pages-%234479A1.svg?logo=mysql&logoColor=white"></a>
-   <a href="#"><img alt="Sqlite Pages" src="https://img.shields.io/badge/Sqlite-%234479A1.svg?logo=mysql&logoColor=white"></a>
-   <a href="#"><img alt="Firebase Pages" src="https://img.shields.io/badge/Firebase-%234479A1.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="MySQL Pages" src="https://img.shields.io/badge/MySQL%20Pages-%234479A1.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Sqlite Pages" src="https://img.shields.io/badge/Sqlite-%23003B57.svg?logo=sqlite&logoColor=white"></a>
+<a href="#"><img alt="Firebase Pages" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"></a>
+<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-%23D22128.svg?logo=apache&logoColor=white"></a>
   
 
 
