@@ -190,16 +190,11 @@ Sunday       commits     ███████░░░░░░░░░░░�
 
 
 
-## Let's Work Together!
-
-If you have any questions about frontend or backend web development, feel free to <a href="mailto:adriancastrobeiro@gmail.com">contact me through email</a>.
-
-You can hire me as a freelancer to deploy your projects on web.
 
 
 
 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">##  For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="https://github.com/aadrii09" target="_blank">
     <img align="center" alt="aadrii09 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
