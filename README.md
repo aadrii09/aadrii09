@@ -134,14 +134,5 @@ You can hire me as a freelancer to deploy your projects on web.
     <img src="https://github-profile-trophy.vercel.app/?username=aadrii09&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-  </td>
-  <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-**<img alt="Feedback" src="https://iwakuraproductions.files.wordpress.com/2017/02/8.png">**
-
-  </td>
-  </tr>
-</table>
