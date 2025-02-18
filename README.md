@@ -128,6 +128,12 @@ adriancastobeiro@gmail.com
 </a>
 </p>
 
+<p align="left" style="margin-right:0px;padding-right:0px">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadrii09&theme=algolia">
+  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aadrii09&theme=algolia" />
+</p>
+
+
 <!--
 <p align="center">
   <img align="center" width="300px" height="300px" src="https://wakatime.com/share/@1625eb95-9fa3-4968-ae99-b756895e60ba/57813f25-cfcc-47a7-9389-afb4e5a121e6.svg"/>
