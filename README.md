@@ -113,25 +113,14 @@ adriancastobeiro@gmail.com
 </p>
 
 
-## GitHub Stats
+### ⚙️ &nbsp;GitHub Analytics
 
-
-|                                                                     aadrii09's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=aadrii09&show_icons=true&theme=algolia)              | 
-|                    | 
-    
-  
-|                                                                                                      aadrii09's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=aadrii09&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrii09&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## Let's Work Together!
 
