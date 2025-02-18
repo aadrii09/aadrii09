@@ -54,6 +54,9 @@ adriancastobeiro@gmail.com
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=6DB33F"></a>
     <a href="#"><img  alt="Doctrine" src="https://img.shields.io/badge/Doctrine-20232A?style=for-the-badge&logo=doctrine&logoColor=6DB33F%22"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
+
 
 </p>
 
