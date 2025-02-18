@@ -98,6 +98,8 @@ adriancastobeiro@gmail.com
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white"></a>
 
 </p>
 
