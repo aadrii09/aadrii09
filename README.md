@@ -141,7 +141,7 @@ adriancastobeiro@gmail.com
 ### ☀️Productivity
 <hr>
 <!--START_SECTION:waka-->
-**🗓️Daily productivity** 
+🗓️Daily productivity
 
 ```text
 🌞 Morning    commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
@@ -150,7 +150,7 @@ adriancastobeiro@gmail.com
 🌙 Night      commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
 ```
-**📅When am I most productive?**
+📅When am I most productive?
 
 ```text
 Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
@@ -163,7 +163,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ```
 
-##🔥My Motto
+🔥My Motto
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center"  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(aadrii09);....+s.explore();....+s.learn();....+s.contribute()"/>
