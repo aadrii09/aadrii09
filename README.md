@@ -124,10 +124,9 @@ adriancastobeiro@gmail.com
 
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@aadrii09/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@aadrii09/c7e94976-73a4-4959-a081-4ca2e1126556.svg"/>
+  <img align="center" width="300px" height="300px" src="https://wakatime.com/share/@aadrii09/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  <img align="center" height="300px" width="300px" src="https://wakatime.com/share/@aadrii09/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
 </p>
-
 
 
 ## 🏆 GitHub Trophies
