@@ -122,7 +122,7 @@ adriancastobeiro@gmail.com
 </a>
 </p>
 
-
+<table>
 ## Let's Work Together!
 
 If you have any questions about frontend or backend web development, feel free to <a href="mailto:adriancastrobeiro@gmail.com">contact me through email</a>.
