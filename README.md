@@ -165,7 +165,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
 
 ## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadrii09&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadrii09&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false&max=10" style="border-radius: 15px;">
 </p>
 
 
