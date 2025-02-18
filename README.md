@@ -181,7 +181,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
   
 
 
-🔥My Motto
+<span style="font-size: 30px">🔥My Motto</span>
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(aadrii09);....+s.explore();....+s.learn();....+s.contribute()"/>
@@ -194,7 +194,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
 
 
 <hr>
-<h1><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><span style="font-size: 60px"> For More Information, Please Check Out or Connect Me Via</span></h1>
+<h1><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"><span style="font-size: 30px"> For More Information, Please Check Out or Connect Me Via</span></h1>
 <p align="center">
   <a href="https://github.com/aadrii09" target="_blank">
     <img align="center" alt="aadrii09 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
