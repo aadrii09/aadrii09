@@ -129,12 +129,12 @@ adriancastobeiro@gmail.com
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadrii09&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadrii09&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadrii09&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadrii09&theme=solarized_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadrii09&theme=solarized_dark&utcOffset=8">
-</p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadrii09&theme=blue_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadrii09&theme=blue_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadrii09&theme=blue_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadrii09&theme=blue_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadrii09&
+
 
 
 
