@@ -178,7 +178,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
 </p>
 
 
-  
+  <hr>
 
 
 <span style="font-size: 30px">🔥My Motto</span>
