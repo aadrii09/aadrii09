@@ -163,10 +163,18 @@ Sunday       commits     ███████░░░░░░░░░░░�
 
 ```
 
+## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadrii09&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
+</p>
+
+
+
+
 🔥My Motto
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img style="margin-right: 155px;" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(aadrii09);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(aadrii09);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 
 
