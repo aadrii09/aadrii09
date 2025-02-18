@@ -123,6 +123,13 @@ adriancastobeiro@gmail.com
 </p>
 
 
+<p align="center">
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@aadrii09/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@aadrii09/c7e94976-73a4-4959-a081-4ca2e1126556.svg"/>
+</p>
+
+
+
 ## 🏆 GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=aadrii09&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
