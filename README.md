@@ -128,10 +128,14 @@ adriancastobeiro@gmail.com
 </a>
 </p>
 
-<p align="left" style="margin-right:0px;padding-right:0px">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadrii09&theme=algolia">
-  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aadrii09&theme=algolia" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadrii09&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadrii09&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadrii09&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadrii09&theme=solarized_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadrii09&theme=solarized_dark&utcOffset=8">
 </p>
+
 
 
 <!--
