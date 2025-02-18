@@ -122,11 +122,11 @@ adriancastobeiro@gmail.com
 </a>
 </p>
 
-
+<!--
 <p align="center">
   <img align="center" width="300px" height="300px" src="https://wakatime.com/share/@1625eb95-9fa3-4968-ae99-b756895e60ba/57813f25-cfcc-47a7-9389-afb4e5a121e6.svg"/>
   <img align="center" height="300px" width="300px" src="https://wakatime.com/share/@aadrii09/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
+</p> -->
 
 
 ## 🏆 GitHub Trophies
