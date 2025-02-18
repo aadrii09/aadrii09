@@ -181,7 +181,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
   <hr>
 
 
-<span style="font-size: 30px">🔥My Motto</span>
+<span style="font-size: 60px">🔥My Motto</span>
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(aadrii09);....+s.explore();....+s.learn();....+s.contribute()"/>
