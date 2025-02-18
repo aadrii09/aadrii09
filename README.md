@@ -153,20 +153,21 @@ adriancastobeiro@gmail.com
 📅When am I most productive?
 
 ```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
+Monday       commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Tuesday      commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+Wednesday    commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Thursday     commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Friday       commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
+Saturday     commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Sunday       commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
 
 ```
 
 🔥My Motto
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center"  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(aadrii09);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img align="center" style="margin-left: 25px;" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(aadrii09);....+s.explore();....+s.learn();....+s.contribute()"/>
+
 
 
 
