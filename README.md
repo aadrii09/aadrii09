@@ -123,26 +123,21 @@ adriancastobeiro@gmail.com
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aadrii09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aadrii09&layout=compact&langs_count=8&theme=algolia"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadrii09&theme=radical" alt="profile detail" />
-
-
 </a>
 </p>
+
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadrii09&theme=blue_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadrii09&theme=blue_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadrii09&theme=blue_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadrii09&theme=blue_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadrii09&
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadrii09&theme=blue_dark&utcOffset=1">
 </p>
 
 
 
-<!--
-<p align="center">
-  <img align="center" width="300px" height="300px" src="https://wakatime.com/share/@1625eb95-9fa3-4968-ae99-b756895e60ba/57813f25-cfcc-47a7-9389-afb4e5a121e6.svg"/>
-  <img align="center" height="300px" width="300px" src="https://wakatime.com/share/@aadrii09/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p> -->
+
 
 
 ## 🏆 GitHub Trophies
