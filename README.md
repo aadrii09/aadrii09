@@ -24,9 +24,10 @@ adriancastobeiro@gmail.com
 💖 Love to continue learning something new every day
 ```
 <hr>
-<p align = "center">
-	<img src = "https://github.com/aadrii09/aadrii09/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+    <img src="https://github.com/aadrii09/aadrii09/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
+
 
 ## 🛠️ My Favorite Tools
 
