@@ -123,7 +123,6 @@ adriancastobeiro@gmail.com
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aadrii09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aadrii09&layout=compact&langs_count=8&theme=algolia"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadrii09&theme=vue" alt="profile detail" />
-
 </a>
 </p>
 
