@@ -129,7 +129,7 @@ adriancastobeiro@gmail.com
 </p>
 
 
-### ☀️Productivitys
+### ☀️Productivity
 <hr>
 <!--START_SECTION:waka-->
 **🗓️Daily productivity** 
@@ -141,7 +141,7 @@ adriancastobeiro@gmail.com
 🌙 Night      commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
 ```
-📅 **When am I most productive?**
+**📅When am I most productive?**
 
 ```text
 Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
