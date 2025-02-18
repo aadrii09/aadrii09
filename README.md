@@ -26,7 +26,7 @@ adriancastobeiro@gmail.com
 <hr>
 
 <p align="center">
-    <img src="https://github.com/aadrii09/animatedSnake/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+    <img src="https://raw.githubusercontent.com/aadrii09/animatedSnake/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 
