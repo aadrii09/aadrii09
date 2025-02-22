@@ -105,6 +105,7 @@ adriancastobeiro@gmail.com
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"></a>
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
+    <a href="#"><img alt="Codium" src="https://img.shields.io/badge/codium-0078d7.svg?style=for-the-badge&logo=codium&logoColor=white"></a>
     
 </p>
 
