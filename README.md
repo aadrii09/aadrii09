@@ -111,8 +111,13 @@ adriancastobeiro@gmail.com
   
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-68217A.svg?style=for-the-badge&logo=visualstudio&logoColor=white"></a>
+    <a href="#">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="160" height="40">
+</a>
+<a href="#">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-68217A.svg?style=for-the-badge&logo=visualstudio&logoColor=white" width="160" height="40">
+</a>
+
 <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
 <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white"></a>
