@@ -72,6 +72,7 @@ adriancastobeiro@gmail.com
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
 <a href="#"><img alt="NES.css" src="https://img.shields.io/badge/NES.css-8B0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAVklEQVR42mNgGAWjYBSMglEwCwHxiQYIEdAUIF8H4j2p8J/oMRKZBaMwCeqTBRvwOhENRHmD6JzQFwSYwGSkCmIYlYBoJjP6IARxiAAPxCxgLHLijKAAAAAElFTkSuQmCC&logoColor=white"></a>
+<a href="#"><img alt="Twig" src="https://img.shields.io/badge/Twig-78B366?style=for-the-badge&logo=symfony&logoColor=white"></a>
 
 
 </p>
