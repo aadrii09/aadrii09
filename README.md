@@ -116,6 +116,7 @@ adriancastobeiro@gmail.com
     <a href="#"><img alt="Office" src="https://img.shields.io/badge/Office-%23D83B01.svg?logo=office&logoColor=white"></a>
     <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?logo=excel&logoColor=white"></a>
     <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white"></a>
+  <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%23000000.svg?logo=canva&logoColor=00C2A8"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="JsonWebToken" src="https://img.shields.io/badge/JsonWebToken-%23000000.svg?logo=jsonwebtokens&logoColor=white"></a>
