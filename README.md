@@ -76,7 +76,8 @@ adriancastobeiro@gmail.com
 <a href="#"><img alt="NES.css" src="https://img.shields.io/badge/NES.css-8B0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAVklEQVR42mNgGAWjYBSMglEwCwHxiQYIEdAUIF8H4j2p8J/oMRKZBaMwCeqTBRvwOhENRHmD6JzQFwSYwGSkCmIYlYBoJjP6IARxiAAPxCxgLHLijKAAAAAElFTkSuQmCC&logoColor=white"></a>
 <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"></a>
-<a href="#"><img alt="xUnit" src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white"></a>
+<a href="#"><img alt="xUnit" src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logoColor=white"></a>
+
 
 
 </p>
