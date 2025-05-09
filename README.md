@@ -19,7 +19,7 @@ adriancastobeiro@gmail.com
 📚 I have a strong interest in Data Science, Artificial Intelligence
 🔭 Working on development
 🌱 Learning about Hardware and AI
-🌟 Main languages: Java, HTML, CSS and Java Script 
+🌟 Main languages: Java, C# and Java Script 
 🚩 Interested in Full Stack Application Development
 💖 Love to continue learning something new every day
 ```
