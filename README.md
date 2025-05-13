@@ -236,8 +236,9 @@ Sunday       commits     ███████░░░░░░░░░░░�
 </a> &nbsp;&nbsp;
 
 <a href="mailto:adriancastrobeiro@gmail.com">
-    <img align="left" alt="Adrian Castro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Adrian Castro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
+
 <p> 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
