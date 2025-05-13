@@ -234,6 +234,10 @@ Sunday       commits     ███████░░░░░░░░░░░�
 <a href="https://www.linkedin.com/in/adrian-castro-9b7712256/" target="_blank">
     <img align="center" alt="aadrii09 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
+
+<a href="mailto:adriancastrobeiro@gmail.com">
+    <img align="left" alt="Adrian Castro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
 <p> 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
