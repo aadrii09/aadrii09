@@ -236,7 +236,7 @@ Sunday       commits     ███████░░░░░░░░░░░�
 </a> &nbsp;&nbsp;
 
 <a href="mailto:adriancastrobeiro@gmail.com" onclick="window.open('https://mail.google.com/mail/?view=cm&fs=1&to=adriancastrobeiro@gmail.com', '_blank'); return false;">
-    <img align="left" alt="Adrian Castro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Adrian Castro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 
 <p> 
