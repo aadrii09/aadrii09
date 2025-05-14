@@ -133,6 +133,7 @@ adriancastobeiro@gmail.com
 <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white"></a>
 <a href="#"><img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-1F6FEB.svg?style=for-the-badge&logo=vscodium&logoColor=white"></a>
+<a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-6C37F4.svg?style=for-the-badge&logo=cursor&logoColor=white"></a>
 
     
 </p>
