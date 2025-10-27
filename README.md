@@ -105,6 +105,8 @@ adriancastobeiro@gmail.com
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%234C4E52.svg?logo=hibernate&logoColor=white"></a>
 <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
 <a href="#"><img alt="Cosmos DB" src="https://img.shields.io/badge/Cosmos%20DB-%230078D4.svg?logo=microsoft-azure&logoColor=white"></a>
+<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white"></a>
+<a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?logo=azuredevops&logoColor=white"></a>
 
   
 
