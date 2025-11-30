@@ -126,6 +126,8 @@ adriancastobeiro@gmail.com
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%23000000.svg?logo=canva&logoColor=00C2A8"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="JsonWebToken" src="https://img.shields.io/badge/JsonWebToken-%23000000.svg?logo=jsonwebtokens&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Interact.js" src="https://img.shields.io/badge/Interact.js-%232599D4.svg?logo=interact.js&logoColor=white"></a>
 
 
     
