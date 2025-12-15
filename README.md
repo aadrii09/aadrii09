@@ -78,6 +78,7 @@ adriancastobeiro@gmail.com
 <a href="#"><img alt="xUnit" src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logoColor=white"></a>
 <a href="#"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"></a>
 <a href="#"><img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"></a>
+<a href="#"><img alt="Ext JS" src="https://img.shields.io/badge/Ext_JS-86BC40?style=for-the-badge&logo=sencha&logoColor=white"></a>
 
 
 </p>
